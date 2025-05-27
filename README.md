@@ -55,7 +55,3 @@ O número de **threads** pode ser configurado no código através da constante:
 - Para matrizes **grandes**, o paralelismo **reduz significativamente** o tempo de execução.
 
 ---
-
-## Licença
-
-Este projeto está licenciado sob a [escolha da licença].
