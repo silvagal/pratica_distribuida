@@ -12,13 +12,13 @@ gcc main.c -o main -fopenmp
 ## Como executar
 
 ```bash
-./matriz_openmp
+./main
 ```
 
 O número de **threads** pode ser configurado no código através da constante:
 
 ```c
-#define NUM_THREADS 4
+#define NUM_THREADS 5
 ```
 
 ## Exemplo de execução
